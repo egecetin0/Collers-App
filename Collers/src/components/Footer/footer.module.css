@@ -1,0 +1,7 @@
+.ul li:before {
+    content: '' !important;
+}
+
+.bgColor {
+    background-color: #0F172A;
+}

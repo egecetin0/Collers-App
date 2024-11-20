@@ -1,0 +1,29 @@
+.bgColor {
+    background-color: #fffcec !important;
+    background-image: -webkit-linear-gradient(297deg, #fffcec 55%, #FEF3C7 50%) !important;
+}
+
+.cup {
+    height: 50px !important;
+    width: 75px !important;
+}
+
+.hamburger {
+    height: 50px !important;
+    width: 65px !important;
+}
+
+.tv {
+    height: 50px !important;
+    width: 75px !important;
+}
+
+.textColor {
+    color: #78350F !important;
+}
+.border {
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-radius: 5px !important;
+    border-color: #78350F !important
+}

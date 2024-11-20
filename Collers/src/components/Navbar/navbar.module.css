@@ -1,0 +1,12 @@
+.bgColor {
+    background-color: #fffcec;
+}
+
+.textColor {
+    color: #78350F !important;
+}
+.border {
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-radius: 5px !important;
+}

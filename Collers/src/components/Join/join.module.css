@@ -1,0 +1,71 @@
+.bgColor {
+    background-color: #fffcec !important;
+}
+
+.cup {
+    height: 50px !important;
+    width: 75px !important;
+}
+
+.hamburger {
+    height: 50px !important;
+    width: 65px !important;
+}
+
+.tv {
+    height: 50px !important;
+    width: 75px !important;
+}
+
+.textColor {
+    color: #78350F !important;
+}
+
+.border {
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-radius: 5px !important;
+    border-color: #78350F !important
+}
+
+ul {
+    list-style-type: none;
+    padding: 0 !important;
+}
+
+ul li:before {
+    content: '✓';
+}
+
+.textColor {
+    color: #78350F !important;
+}
+
+.border {
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-radius: 5px !important;
+    border-color: #78350F !important
+}
+
+.cardBorder {
+    border-radius: 25px !important;
+}
+
+@media screen and (max-width: 1440px) {
+    img {
+        width: 225%
+    }
+    .imgPos {
+        right: 30%
+    }
+}
+
+@media screen and (min-width: 1441px) {
+    img {
+        width: 135%
+    }
+    .imgPos {
+        right: 10%
+    }
+}

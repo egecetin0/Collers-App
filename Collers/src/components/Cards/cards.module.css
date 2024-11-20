@@ -1,0 +1,27 @@
+.bgColor {
+    background-color: #0F172A !important;
+}
+
+.textColor {
+    color: white !important;
+}
+.border {
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-radius: 5px !important;
+    border-color: white !important;
+}
+
+.title {
+    padding: 3% 5%;
+}
+
+.cards {
+    padding: 0 5% 3% 5%;
+}
+
+.card {
+    background-color: #0F172A !important;
+    color: white !important;
+    box-shadow: 0 10px 20px -20px #fff
+}
